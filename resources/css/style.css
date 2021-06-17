@@ -1,0 +1,15 @@
+html {
+    background-color: black;
+    font-family: Verdana;
+    color: white;
+    text-align: center;
+}
+
+.AttentionGrabHeading {
+    font-weight: Normal;
+    font-size: 50px;
+}
+[href] {
+    color: aquamarine;
+    font-size: 16px;
+}
